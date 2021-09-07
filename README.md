@@ -12,11 +12,11 @@
 
 ![Home](https://img.shields.io/badge/1-Home-blue)
 
-![Home Screen](ScreenShots/home.png "Home")
+![Home Screen](Screenshots/home.png "Home")
 &nbsp;
 
 ![Home](https://img.shields.io/badge/2-My_Skills-yellow)
-![My Skills](ScreenShots/skills.png "Skills")
+![My Skills](Screenshots/skills.png "Skills")
 
 &nbsp;
 
