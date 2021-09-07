@@ -22,7 +22,7 @@
 &nbsp;
 
 ![Home](https://img.shields.io/badge/2-My_Skills-yellow)
-![My Skills](Screenshots/skills.png "Skills")
+![My Skills](Screenshots/skills.png "My Skills")
 
 &nbsp;
 
