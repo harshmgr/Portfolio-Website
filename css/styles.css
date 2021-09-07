@@ -254,6 +254,7 @@ span{
 .skills_section #heading{
     font-size: 50px;
     font-weight: 600;
+    color: antiquewhite;
 }
 .skills_section hr{
     border: 0.5px solid var(--pink-color);
@@ -270,7 +271,7 @@ span{
     border-left:2px solid var(--pink-color);
     border-radius: 0px;
     margin: 5px 0px;
-    width: 200px;
+    width: 300px;
     background: var(--bg-color-of-list-section);
     font-size: 14px;
 }
@@ -279,20 +280,27 @@ span{
     color: ghostwhite;
     text-decoration: none;
 }
+
+.skills_section_right_section{
+    margin-top: 30px;
+}
+
 .skills_section .social-media-icons .list-group-item:hover a{
     margin-left: 10px;
 }
 .skills_section_right_section .each_skills span{
-    color: aliceblue !important;
+    color: aliceblue;
     font-size: 14px;
 }
 .skills_section_right_section .each_skills .progress{
     background: var(--bg-color-of-list-section);
-    border-radius: 100px;
+    border-radius: 200px;
     margin-top: 3px;
-    height: 10px;
+    margin-bottom: 20px;;
+    height: 12px;
 }
 .skills_section_right_section .each_skills .progress-bar{
     background: var(--pink-color);
     color:transparent;
+    border-radius: 100px;;
 }
