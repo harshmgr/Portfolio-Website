@@ -5,10 +5,20 @@
 
 ![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-lightgrey)
 ![MCA Project](https://img.shields.io/badge/MCA-Portfolio-blue)
+&nbsp;
+&nbsp;
 
+## Screenshots:
 
+![Home](https://img.shields.io/badge/1-Home-blue)
 
+![Home Screen](ScreenShots/home.png "Home")
+&nbsp;
 
+![Home](https://img.shields.io/badge/2-My_Skills-yellow)
+![My Skills](ScreenShots/skills.png "Skills")
+
+&nbsp;
 
 ## Technology Stack Used
 
