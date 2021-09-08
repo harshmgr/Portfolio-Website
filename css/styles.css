@@ -443,6 +443,16 @@ span{
     font-size: 14px;
     margin: 0 0 0 68px;
   }
+
+  .contact .info-box p a{
+    color: aliceblue;
+    text-decoration: none;
+  }
+  
+  .contact .info-box p a:hover{
+    color: var(--pink-color);
+    
+  }
   
   .contact .info-box .social-links {
     margin: 5px 0 0 68px;
