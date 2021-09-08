@@ -169,11 +169,9 @@ span{
     .hero-section .row h3::after{
         width: 0px;
     }
-    .hero-section .btn-container button{
-        width: 100px;
-        height: 43px;
-        font-size: 15px;
+    .hero-section .row .social-links{
         text-align: center;
+        margin-bottom: 30px;
     }
     .hero-section .row img{
         width: 60%;
