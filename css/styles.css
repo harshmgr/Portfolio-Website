@@ -430,6 +430,13 @@ span{
 .achievement .blog .carousel-indicators .active {
 background: #807070;
 }
+
+@media (max-width:763px) and (min-width:500px) {
+  .carousel-item{
+    padding: 30x;
+    margin-top: 20px;
+  }
+}
 /* Contact Information */
 
 .contact{
