@@ -183,12 +183,12 @@ span{
     background-color: #282a39;
     padding: 180px 0px;
 }
-.about_section #headline{
+.about_section #heading{
     font-weight: 600;
     font-size: 40px;
     letter-spacing: 0.5px;
     line-height: 57px;
-    padding-bottom: 50px;;
+    padding-bottom: 5px;
 }
 .about_section .lets_talk{
     color: aliceblue;
@@ -250,6 +250,7 @@ span{
     .about_section.about_me_right_section{
         padding-top: 20px;
     }
+    
 
 }
 
@@ -402,7 +403,11 @@ span{
   .project .icon-box:hover h4 a, .services .icon-box:hover p {
     color: #fff;
   }
-
+  @media (max-width:500px) and (min-width:200px) {
+    .project .icon-box{
+      margin-bottom: 20px;
+    }
+    }
 
 /* Achievement Section*/
 .blog .carousel-indicators {
